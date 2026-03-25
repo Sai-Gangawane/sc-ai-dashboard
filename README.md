@@ -5,6 +5,7 @@ An AI-powered supply chain analytics dashboard built with Python, Streamlit, and
 ---
 
 ## 🚀 Live Demo
+**[👉 Click here to try the live app](https://sc-ai-dashboard.streamlit.app)**
 > Upload any supply chain CSV and get instant AI-powered insights
 
 ---
