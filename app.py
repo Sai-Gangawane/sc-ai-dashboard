@@ -203,7 +203,7 @@ COLORS = ["#1a3c5e", "#0f6e56", "#b45309", "#5b21b6", "#991b1b"]
 def style_fig(fig):
     fig.update_layout(
         paper_bgcolor="#ffffff", plot_bgcolor="#f9fafb",
-        font=dict(color="#6b7280", family="Inter", size=11),
+        font=dict(color="#1a3c5e", family="Inter", size=11),
         title_font=dict(color="#1a3c5e", family="Inter", size=13),
         legend=dict(bgcolor="#ffffff", bordercolor="#e5e7eb", borderwidth=1),
         xaxis=dict(gridcolor="#f3f4f6", linecolor="#e5e7eb"),
