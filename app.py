@@ -205,7 +205,7 @@ def style_fig(fig):
         paper_bgcolor="#ffffff", plot_bgcolor="#f9fafb",
         font=dict(color="#1a3c5e", family="Inter", size=11),
         title_font=dict(color="#1a3c5e", family="Inter", size=13),
-        legend=dict(bgcolor="#ffffff", bordercolor="#e5e7eb", borderwidth=1),
+       legend=dict(bgcolor="#ffffff", bordercolor="#e5e7eb", borderwidth=1, font=dict(color="#1a3c5e", size=12)),
         xaxis=dict(gridcolor="#f3f4f6", linecolor="#e5e7eb"),
         yaxis=dict(gridcolor="#f3f4f6", linecolor="#e5e7eb"),
         margin=dict(t=50, b=20, l=20, r=20)
