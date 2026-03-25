@@ -198,7 +198,7 @@ with k4:
 
 st.markdown("<br>", unsafe_allow_html=True)
 
-COLORS = ["#2d6a9f", "#1d9e75", "#d97706", "#7c3aed", "#dc2626"]
+COLORS = ["#1a3c5e", "#0f6e56", "#b45309", "#5b21b6", "#991b1b"]
 
 def style_fig(fig):
     fig.update_layout(
